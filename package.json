@@ -1,0 +1,12 @@
+{
+  "name": "fcc-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elihu Munguía <47308963+XVI-LoLz@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13"
+  }
+}
